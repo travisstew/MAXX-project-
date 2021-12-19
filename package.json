@@ -1,0 +1,19 @@
+{
+  "name": "maxx-project-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travisstew/MAXX-project-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisstew/MAXX-project-/issues"
+  },
+  "homepage": "https://github.com/travisstew/MAXX-project-#readme"
+}
